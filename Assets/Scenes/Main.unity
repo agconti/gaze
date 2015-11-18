@@ -154,9 +154,9 @@ GameObject:
   m_Component:
   - 4: {fileID: 577876304}
   - 114: {fileID: 577876303}
+  - 114: {fileID: 577876300}
   - 114: {fileID: 577876302}
   - 114: {fileID: 577876301}
-  - 114: {fileID: 577876300}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
